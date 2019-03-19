@@ -5,5 +5,6 @@ public class BaseController {
         System.out.println("idea 的测试");
         System.out.println("测试11");
         System.out.println("rrrrrrrrr");
+        System.out.println("lllllllll");
     }
 }
